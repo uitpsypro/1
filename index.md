@@ -1,3 +1,7 @@
+---
+title-heading: false
+---
+
 # What you brain stimulated?
 
 
