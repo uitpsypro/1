@@ -2,7 +2,7 @@
 title: Home
 ---
 
-### For **English** [click here.](/1/eng-info.md)
+### For **English** [click here.](https://uitpsypro.github.io/1/eng-info)
 
 
 ### For **Norsk** [trykk her.](https://uitpsypro.github.io/1/nor-info)
