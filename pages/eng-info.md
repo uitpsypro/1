@@ -38,7 +38,7 @@ name: ""
 
 
 ### Still interested?
-If you are still interested you can read the full instruction experiment [here](/documents/00-infoSheet_english.pdf).
+If you are still interested you can read the full instruction experiment [here](/pages/eng-infosheet).
 
 If you have any questions or want to participant in the experiment you can contact one of the researchers:
 
