@@ -4,7 +4,7 @@
 
 
 
-* For **English** [click here.](https://uitpsypro.github.io/1/eng-info)
+* For **English** [click here.](https://uitpsypro.github.io/brain-stimulation/eng-info)
 
 
-* For **Norsk** [trykk her.](https://uitpsypro.github.io/1/nor-info)
+* For **Norsk** [trykk her.](https://uitpsypro.github.io/brain-stimulation/nor-info)
