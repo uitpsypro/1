@@ -8,10 +8,22 @@ name: ""
 # What your brain stimulated?
 
 ### Short about the experiment: 
-In this project we will be using rTMS (repetitive transcranial magnetic stimulation) which is a safe procedure to stimulate the brain from outside of the skull using magnetic fields. As a participant you will conduct an attentional task and answer a few questions that will be asked while conducting this task. This study requires that you attend two sessions in total, with at least one week gap between each session. Both sessions will be identical except for that on one session you will receive **real rTMS stimulation** (which influences the brain), and the other session you will receive **fake rTMS stimulation** (have no effect on the brain). The order for real/fake stimulation will be random, you will not be told when you will receive real or fake stimulation. 
+* Using rTMS (repetitive transcranial magnetic stimulation)(rTMS; a non-invasive brain stimulation procedure)
+* Consists of two sessions (2 meetings):
+  * Where you receive either **real rTMS stimulation** or **fake rTMS stimulation**
+  * Both you, the participant, and the researchers will **not know** which stimulation you will receive to either session 
+* A single session will require around 2 to 2.5 hours
+* The second session will be, at minimum, 7 days after the first session
+* To quality for the giftcard you must participate in both sessions
 
 
-### Inclusion criteria:
+### Risk 
+* This brain stimulation is very potent and **might** elicit an epileptic seizure
+* HOWEVER, this is **very** rare in healthy adults
+* 
+
+
+### To be able to participate you need to meet these criterias: 
 * Good or corrected eyesight
 * Be righthanded
 * Have no psychological/neurological diseases currently or in the past (e. g. major depression, bipolar disorder, epilepsy, migraine, severe head injury, brain surgery)
@@ -22,10 +34,7 @@ In this project we will be using rTMS (repetitive transcranial magnetic stimulat
 * No electronical devices in the body
 
 
-### General information about the experiment:
-* A single session will require around 2 to 2.5 hours
-* The second session will be, at minimum, 7 days after the first session
-* To quality for the giftcard you must participate in both session
+
 
 
 ### Still interested?
@@ -33,8 +42,8 @@ If you are still interested you can read the full instruction experiment [here](
 
 If you have any questions or want to participant in the experiment you can contact one of the researchers:
 
-* [Steffen Aasen](saa054@uit.no)
-* [Ragnhild Drevland](rdr006@uit.no)
+* Steffen Aasen at [saa054@uit.no](mailto:saa054@uit.no) 
+* Ragnhild Drevland at [rdr006@uit.no](mailto:rdr006@uit.no)
 
 
 
