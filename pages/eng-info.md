@@ -2,7 +2,7 @@
 permalink: /eng-info.html
 name: ""
 ---
-###### [Return](https://uitpsypro.github.io/1/)
+###### [Home](https://uitpsypro.github.io/1/)
 ---
 
 # What your brain stimulated?
