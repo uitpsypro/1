@@ -1,4 +1,8 @@
-This is the starting page people land at
+# What you brain stimulated?
 
-they ca now choose between ENGLANDO 
-or NROWAGIAn grrr
+
+
+* For English [click here](https://uitpsypro.github.io/1/eng-info)
+
+
+* For norsk [trykk her](https://uitpsypro.github.io/1/nor-info)
