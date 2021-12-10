@@ -1,5 +1,5 @@
 ---
-permalink: /eng-info.html
+permalink: /nor-info.html
 name: ""
 ---
 ###### [Hjem](https://uitpsypro.github.io/1/)
