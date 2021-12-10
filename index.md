@@ -14,4 +14,4 @@ title: Home
 
 ![test](/pictures/poster.png)
 
-![Test2](https://github.com/uitpsypro/1/blob/main/pictures/poster.png)
+![test2](/pictures/poster1.png)
