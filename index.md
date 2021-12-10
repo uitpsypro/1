@@ -1,5 +1,5 @@
 ---
-title: Home
+title: ""
 ---
 
 ### For **English** [click here.](https://uitpsypro.github.io/1/eng-info)
