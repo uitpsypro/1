@@ -12,4 +12,6 @@ title: Home
 * For **Norsk** [trykk her.](https://uitpsypro.github.io/1/nor-info)
 
 
-![test](/pictures/poster.png
+![test](/pictures/poster.png)
+
+![Test2](https://github.com/uitpsypro/1/blob/main/pictures/poster.png)
