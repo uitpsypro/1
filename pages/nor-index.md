@@ -17,9 +17,9 @@ name: ""
 * For å kvalifisere til gavekortet må du fullføre begge sesjonene 
 
 
-
 ### Risiko:
-* Denne type hjernestimulering 
+* Denne type hjernestimulering er veldig potent og **kan** utløse ett epileptisk anfall
+* MEN, dette er **svært** sjeldent i friske voksne
 
 
 ### For å være med må du oppnå disse kriteriene:
@@ -41,8 +41,8 @@ Da kan du lese om eksperimentet i mer detaljer [her]("document link" --- ,
 
 Hvis du har spørsmål eller ønsker å melde deg som deltaker kan du kontakte en av eksperimentørene:
 
-* [Steffen Aasen](saa054@uit.no)
-* [Ragnhild Drevland](rdr006@uit.no)
+* Steffen Aasen at [saa054@uit.no](mailto:saa054@uit.no) 
+* Ragnhild Drevland at [rdr006@uit.no](mailto:rdr006@uit.no)
 
 
 
