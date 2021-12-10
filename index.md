@@ -1,3 +1,5 @@
+title: Home
+
 # What you brain stimulated?
 
 
