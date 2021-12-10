@@ -8,7 +8,8 @@ name: ""
 # What your brain stimulated?
 
 ### Short about the experiment: 
-* Using rTMS (repetitive transcranial magnetic stimulation)(rTMS; a non-invasive brain stimulation procedure)
+* Using repetitive transcranial magnetic stimulation (rTMS) 
+  * A non-invasive brain stimulation procedure
 * Consists of two sessions (2 meetings):
   * Where you receive either **real rTMS stimulation** or **fake rTMS stimulation**
   * Both you, the participant, and the researchers will **not know** which stimulation you will receive to either session 
