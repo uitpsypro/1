@@ -1,3 +1,6 @@
+---
+permalink: /eng-info.html
+---
 [Return](https://uitpsypro.github.io/1/)
 ---
 
