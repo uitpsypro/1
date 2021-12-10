@@ -20,7 +20,6 @@ name: ""
 ### Risk 
 * This brain stimulation is very potent and **might** elicit an epileptic seizure
 * HOWEVER, this is **very** rare in healthy adults
-* 
 
 
 ### To be able to participate you need to meet these criterias: 
@@ -38,7 +37,7 @@ name: ""
 
 
 ### Still interested?
-If you are still interested you can read the full instruction experiment [here]("document link" --- ,
+If you are still interested you can read the full instruction experiment [here](/documents/00-infoSheet_english.pdf).
 
 If you have any questions or want to participant in the experiment you can contact one of the researchers:
 
