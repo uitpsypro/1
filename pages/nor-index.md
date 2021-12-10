@@ -8,10 +8,11 @@ name: ""
 # Vil du ha hjernen din stimulert?
 
 ### Kort om eksperimentet: 
-* Ved bruk av repetetiv Transkranial Magnetisk Stimulering (rTMS; en ikke invasive hjernestimulerings prosedyre)
+* Ved bruk av repetetiv Transkranial Magnetisk Stimulering (rTMS)
+  * En ikke invasive hjernestimuleringsprosedyre
 * Eksperimentet innebærer 2 sesjoner (2 oppmøter):
   * Hvor du vil få **ekte rTMS stimulering** den ene dagen og **falsk rTMS stimulering** den andre dagen
-  * Både du som deltaker og eksperimentørene vil ikke vite hvilken stimulering du får til hvert oppmøte
+  * Både du, som deltaker, og eksperimentørene vil **ikke vite** hvilken stimulering du får til hvert oppmøte
 * En enkelt sesjon varer mellom 2 til 2.5 timer
 * Andre sesjon vil være, minst, 7 dager etter første sesjon
 * For å kvalifisere til gavekortet må du fullføre begge sesjonene 
