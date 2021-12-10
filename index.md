@@ -9,5 +9,3 @@ title: Home
 
 
 ![test](/pictures/poster.png)
-
-![test2](/pictures/poster1.png)
