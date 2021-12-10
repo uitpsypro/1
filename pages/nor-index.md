@@ -8,7 +8,19 @@ name: ""
 # Vil du ha hjernen din stimulert?
 
 ### Kort om eksperimentet: 
-I dette prosjektet vil vi benytte transkranial magnetisk stimulering (TMS) som er en trygg metode for å påvirke nervene i hjernen uten noen invansiv prosedyre. TMS gjør dette ved å ta i bruk magnetiske felter og disse magnetiske feltene påvirker nervene i hjernen. Som deltaker vil du utføre en oppmerksomhetsoppgave, samt svare på en rekke spørsmål som blir stilt under utførelse av denne oppgaven. Denne studien innebærer to oppmøter, hvert oppmøte er med minst 7 dagers mellomrom. De to oppmøtene er kun ulik i hvilken type stimulering du får. Det ene oppmøte vil bestå av **ekte rTMS stimulering** (som påvirkerer hjernen) og den andre vil bestå av **falsk rTMS stimulering**. Den falske stimuleringen etterligner den ekte stimuleringen, men har ingen effekt på nervene i hjernen. Dette gjør vi for å sikre mot en forventningseffekt. Verken du (som deltaker) eller forskerutøvere vil vite hvilken stimulering du får på hvert oppmøte.
+* Ved bruk av repetetiv Transkranial Magnetisk Stimulering (rTMS; en ikke invasive hjernestimulerings prosedyre)
+* Eksperimentet innebærer 2 sesjoner (2 oppmøter):
+  * Hvor du vil få **ekte rTMS stimulering** den ene dagen og **falsk rTMS stimulering** den andre dagen
+  * Både du som deltaker og eksperimentørene vil ikke vite hvilken stimulering du får til hvert oppmøte
+* En enkelt sesjon varer mellom 2 til 2.5 timer
+* Andre sesjon vil være, minst, 7 dager etter første sesjon
+* For å kvalifisere til gavekortet må du fullføre begge sesjonene 
+
+
+
+### Risiko:
+* Denne type hjernestimulering 
+
 
 ### For å være med må du oppnå disse kriteriene:
 * Du bør ha godt eller korrigert syn
@@ -21,9 +33,7 @@ I dette prosjektet vil vi benytte transkranial magnetisk stimulering (TMS) som e
 * Ikke ha elektroniske verktøy i kroppen
 
 ### General information about the experiment:
-* En enkelt sesjon varer mellom 2 til 2.5 timer
-* Andre sesjon vil være, minst, 7 dager etter første sesjon
-* For å kvalifisere til gavekortet må du fullføre begge sesjonene 
+
 
 
 ### Fortsatt interessert?
