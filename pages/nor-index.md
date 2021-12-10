@@ -8,31 +8,31 @@ name: ""
 # What your brain stimulated?
 
 ### Short about the experiment: 
-In this project we will be using rTMS (repetitive transcranial magnetic stimulation) which is a safe procedure to stimulate the brain from outside of the skull using magnetic fields. As a participant you will conduct an attentional task and answer a few questions that will be asked while conducting this task. This study requires that you attend two sessions in total, with at least one week gap between each session. Both sessions will be identical except for that on one session you will receive **real stimulation** (which influences the brain), and the other session you will receive **fake stimulation** (have no effect on the brain). The order for real/fake stimulation will be random, you will not be told when you will receive real or fake stimulation. One session is expected to last about 140 minutes. 
+I dette prosjektet vil vi benytte transkranial magnetisk stimulering (TMS) som er en trygg metode for å påvirke nervene i hjernen uten noen invansiv prosedyre. TMS gjør dette ved å ta i bruk magnetiske felter og disse magnetiske feltene påvirker nervene i hjernen. Som deltaker vil du utføre en oppmerksomhetsoppgave, samt svare på en rekke spørsmål som blir stilt under utførelse av denne oppgaven. Denne studien innebærer to oppmøter, hvert oppmøte er med minst 7 dagers mellomrom. De to oppmøtene er kun ulik i hvilken type stimulering du får. Det ene oppmøte vil bestå av **ekte rTMS stimulering** (som påvirkerer hjernen) og den andre vil bestå av **falsk rTMS stimulering**. Den falske stimuleringen etterligner den ekte stimuleringen, men har ingen effekt på nervene i hjernen. Dette gjør vi for å sikre mot en forventningseffekt. Verken du (som deltaker) eller forskerutøvere vil vite hvilken stimulering du får på hvert oppmøte.
 
-
-### Inclusion criteria:
-* You should have good or corrected eyesight
-* be righthanded
-* have no psychological/neurological diseases currently or in the past (e. g. major depression, bipolar disorder, epilepsy, migraine, severe head injury, brain surgery)
-* not pregnant
-* no history of epilepsy in the family (first-degree relatives)
-* not taking any medication targeting the central nervous system (e. g. antidepressants, antiepileptics)
-* no metal implants (e.g., pacemaker, cochlea implant)
-* no electronical devices in the body
+### For å være med må du oppnå disse kriteriene:
+* Du bør ha godt eller korrigert syn
+* Må være høyrehendt
+* Kan ikke ha noen nåværende/tidligere psykiske/nevrologiske sykdommer (f.eks. alvorlig depresjon, bipolar lidelse, epilepsi, migrene, alvorlig hodeskade, hjernekirurgi)
+* Ikke gravid
+* Ikke historie med epilepsi i (nær) familie 
+* Ikke tar medisiner som påvirker sentralnervesystemet (f.eks. antidepressiva, antiepileptika)
+* Ikke ha metallimplantasjoner (f.eks: pacemaker, cochleaimplantat)
+* Ikke ha elektroniske verktøy i kroppen
 
 ### General information about the experiment:
-* A single session will require around 2 to 2.5 hours
-* The second session will be, at minimum, 7 days after the first session
-* To quality for the giftcard you must participate in both session
+* En enkelt sesjon varer mellom 2 til 2.5 timer
+* Andre sesjon vil være, minst, 7 dager etter første sesjon
+* For å kvalifisere til gavekortet må du fullføre begge sesjonene 
 
 
-### Still interested?
-If you are still interested you can read the full instruction experiment [here]("document link" --- ,
+### Fortsatt interessert?
+Da kan du lese om eksperimentet i mer detaljer [her]("document link" --- ,
 
-And contact one of the researchers:
-[Steffen Aasen](saa054@uit.no)
-[Ragnhild Drevland](rdr006@uit.no)
+Hvis du har spørsmål eller ønsker å melde deg som deltaker kan du kontakte en av eksperimentørene:
+
+* [Steffen Aasen](saa054@uit.no)
+* [Ragnhild Drevland](rdr006@uit.no)
 
 
 
