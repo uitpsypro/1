@@ -6,4 +6,7 @@ permalink: eng-infosheet.html
 
 # Full informationsheet:
 
+[InfoSheet](/documents/00-InfoSheet-english.pdf)
+
+
 ![InfoSheet](/documents/00-InfoSheet-english.pdf)
