@@ -13,3 +13,6 @@ permalink: eng-infosheet.html
 
 
 <iframe src="https://github.com/uitpsypro/1/blob/6d36e06218c450d989502cbb3e1c191044374c77/documents/00-InfoSheet_english.pdf" frameborder="0" allowfullscreen="true"> </iframe>
+
+
+<iframe src="https://github.com/uitpsypro/1/blob/main/documents/00-InfoSheet_english.pdf" frameborder="0" allowfullscreen="true"> </iframe>
