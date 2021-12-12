@@ -16,4 +16,4 @@ title: "rTMS"
 
 
 * How the magnetic field works:
-![TMS_1.png](https://github.com/uitpsypro/1/blob/main/pictures/TMS_patient.jpg) 
+![TMS_1.png](https://github.com/uitpsypro/1/blob/main/pictures/TMS_1.png) 
