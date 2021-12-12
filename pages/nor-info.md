@@ -1,6 +1,6 @@
 ---
 permalink: /nor-info.html
-name: "Info"
+title: "Info"
 ---
 ###### [Hjem](https://uitpsypro.github.io/1/) / [Informasjon](https://uitpsypro.github.io/1/nor-info)
 ---
