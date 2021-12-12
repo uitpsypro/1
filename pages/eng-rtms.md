@@ -13,12 +13,12 @@ title: "rTMS"
 
 
 
-#### The TMS coil looks like this: 
+##### The TMS coil looks like this: 
 
 ![TMS_patient](/1/pictures/TMS_patient.jpg)
 
 
-#### How the magnetic field works:
+##### How the magnetic field works:
 
 ![TMS_1.png](/1/pictures/TMS_1.png) 
 
