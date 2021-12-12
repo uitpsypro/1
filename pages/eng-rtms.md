@@ -14,5 +14,8 @@ name: "rTMS"
 * The TMS coil looks like this: 
 ![TMS_patient](https://github.com/uitpsypro/1/blob/main/pictures/TMS_patient.jpg)
 
+
+![TMS](https://en.wikipedia.org/wiki/Transcranial_magnetic_stimulation#/media/File:Transcranial_magnetic_stimulation.jpg)
+
 * How the magnetic field works:
 ![TMS_1.png](https://github.com/uitpsypro/1/blob/main/pictures/TMS_patient.jpg) 
