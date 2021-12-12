@@ -8,7 +8,7 @@ name: ""
 # What your brain stimulated?
 
 ### Short about the experiment: 
-* Using [repetitive transcranial magnetic stimulation (rTMS)](https://github.com/uitpsypro/1//eng-info/eng-rtms)
+* Using [repetitive transcranial magnetic stimulation (rTMS)](https://uitpsypro.github.io/1/eng-info/eng-rtms)
   * A non-invasive brain stimulation procedure
 * Consists of two sessions (2 meetings):
   * Where you receive either **real rTMS stimulation** or **fake rTMS stimulation**
