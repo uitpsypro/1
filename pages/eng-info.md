@@ -1,6 +1,6 @@
 ---
 permalink: /eng-info.html
-name: ""
+name: "Info"
 ---
 ###### [Home](https://uitpsypro.github.io/1/) / [Information](https://uitpsypro.github.io/1/eng-info)
 ---
