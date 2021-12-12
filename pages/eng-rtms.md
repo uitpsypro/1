@@ -4,21 +4,19 @@ title: "rTMS"
 ---
 ###### [Home](https://uitpsypro.github.io/1/) / [Information](https://uitpsypro.github.io/1/eng-info) / [rTMS](https://uitpsypro.github.io/1/eng-info/eng-rtms)
 ---
-# Repetetive Transcranial Magnetic Stimulation
-
+# Repetetive Transcranial Magnetic Stimulation (rTMS)
 * Transcranial magnetic stimulation (TMS), is a non-invasive method of brain stimulation. 
-* During the procedure, a magnetic coil is placed over the scalp of the person receiving the treatment. 
-* The magnetic field penetrates the skull and the electric stimulus activates the neurons in the target area.
-* Repetitive transcranial magnetic stimulation (rTMS) modulation the brain activity.
+* The magnetic coil is placed over the scalp of the person being stimulated. 
+* The magnetic field penetrates the skull and the electric stimulus activates the neurons in the brain under the coil.
+* Repetitive TMS means that the magnetic field will turn on and off multiple times in a single stimulation round.
 
 
-
-##### The TMS coil looks like this: 
+##### TMS coil: 
 
 ![TMS_patient](/1/pictures/TMS_patient.jpg)
 
 
-##### How the magnetic field works:
+##### TMS magnetic fields:
 
 ![TMS_1.png](/1/pictures/TMS_1.png) 
 
