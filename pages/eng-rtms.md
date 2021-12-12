@@ -17,4 +17,4 @@ title: "rTMS"
 ---
 
 * How the magnetic field works:
-![TMS_1.png](/1/pictures/TMS_1.png) 
+* ![TMS_1.png](/1/pictures/TMS_1.png) 
