@@ -13,5 +13,5 @@ permalink: /eng-info/eng-rtms.html
 * The TMS coil looks like this: 
 ![TMS_patient](/pictures/TMS_patient.jpg)
 
-* The magnetic field
+* How the magnetic field works:
 ![TMS_1.png](/pictures/TMS_1.png) 
