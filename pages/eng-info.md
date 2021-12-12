@@ -2,7 +2,7 @@
 permalink: /eng-info.html
 name: ""
 ---
-###### [Home](https://uitpsypro.github.io/1/)
+###### [Home](https://uitpsypro.github.io/1/) / [Information](https://uitpsypro.github.io/1/eng-info)
 ---
 
 # What your brain stimulated?
@@ -38,7 +38,7 @@ name: ""
 
 
 ### Still interested?
-If you are still interested you can download and read the full instructions [here](https://github.com/uitpsypro/1/raw/main/documents/00-InfoSheet_english.pdf).
+If you are still interested you can download and read the [full instructions here](https://github.com/uitpsypro/1/raw/main/documents/00-InfoSheet_english.pdf).
 
 If you have any questions or want to participant in the experiment you can contact one of the researchers:
 
