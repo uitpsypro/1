@@ -2,7 +2,7 @@
 permalink: /nor-info.html
 name: ""
 ---
-###### [Hjem](https://uitpsypro.github.io/1/)
+###### [Hjem](https://uitpsypro.github.io/1/) / [Informasjon](https://uitpsypro.github.io/1/nor-info)
 ---
 
 # Vil du ha hjernen din stimulert?
