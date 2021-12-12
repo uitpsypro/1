@@ -12,8 +12,8 @@ title: "rTMS"
 * Repetitive transcranial magnetic stimulation (rTMS) modulation the brain activity.
 
 * The TMS coil looks like this: 
-![TMS_patient](https://github.com/uitpsypro/1/blob/main/pictures/TMS_patient.jpg)
+![TMS_patient](/1/pictures/TMS_patient.jpg)
 
 
 * How the magnetic field works:
-![TMS_1.png](https://github.com/uitpsypro/1/blob/main/pictures/TMS_1.png) 
+![TMS_1.png](/1/pictures/TMS_1.png) 
