@@ -8,7 +8,7 @@ title: "Info"
 # Vil du ha hjernen din stimulert?
 
 ### Kort om eksperimentet: 
-* Ved bruk av [repetetiv Transkranial Magnetisk Stimulering (rTMS)](https://uitpsypro.github.io/1/nor-info/nor-rtms)
+* Ved bruk av [repetetiv transkraniall magnetisk stimulering (rTMS)](https://uitpsypro.github.io/1/nor-info/nor-rtms)
   * En ikke invasive hjernestimuleringsprosedyre
 * Eksperimentet innebærer 2 sesjoner (2 oppmøter):
   * Hvor du vil få **ekte rTMS stimulering** den ene dagen og **falsk rTMS stimulering** den andre dagen
