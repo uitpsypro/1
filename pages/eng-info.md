@@ -8,24 +8,33 @@ title: "Info"
 # What your brain stimulated?
 
 ### Short about the experiment: 
-* Using [repetitive transcranial magnetic stimulation (rTMS)](https://uitpsypro.github.io/1/eng-info/eng-rtms)
+* We will be using [repetitive transcranial magnetic stimulation (rTMS)](https://uitpsypro.github.io/1/eng-info/eng-rtms)
   * A non-invasive brain stimulation procedure
-* Consists of two sessions (2 meetings):
+  * 
+* The experiment consists of two sessions (2 meetings):
   * Where you receive either **real rTMS stimulation** or **fake rTMS stimulation**
-  * Both you, the participant, and the researchers will **not know** which stimulation you will receive to either session 
+  * Both you, the participant, and the researchers will **not know** which stimulation you will receive to either session (blinding)
 * A single session will require around 2 to 2.5 hours
 * The second session will be, at minimum, 7 days after the first session
 * To quality for the giftcard you must participate in both sessions
 
 
-### Risk 
-* This brain stimulation is very potent and **might** elicit an epileptic seizure
+### Risk & Sideeffects
+* This brain stimulation procedure is very potent and **might** elicit an epileptic seizure
 * HOWEVER, this is **very** rare in healthy adults
+* You might experience some sideeffects like:
+  * Headache
+  * Burning sensations 
+  * Skin-reddness 
+  * Light headedness
+  * Tingling
+  * Neck pain
 
 
 ### To be able to participate you need to meet these criterias: 
+* Between the ages of 18 to 50
 * Good or corrected eyesight
-* Be righthanded
+* Be **righthanded**
 * Have no psychological/neurological diseases currently or in the past (e. g. major depression, bipolar disorder, epilepsy, migraine, severe head injury, brain surgery)
 * Not pregnant
 * No history of epilepsy in the family (first-degree relatives)
