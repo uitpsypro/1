@@ -18,7 +18,7 @@ title: "Info"
 * To quality for the giftcard (500 NOK) you must participate in both sessions
 
 
-### Risk & Side effects
+### Risk & side effects
 * This brain stimulation procedure is very potent and **might** elicit an epileptic seizure
 * HOWEVER, this is **very** rare in healthy adults
 * You might experience some sideeffects like:
