@@ -18,10 +18,16 @@ title: "Info"
 * For å kvalifisere til gavekortet må du fullføre begge sesjonene 
 
 
-### Risiko:
+### Risiko &  bivirkninger:
 * Denne type hjernestimulering er veldig potent og **kan** utløse ett epileptisk anfall
 * MEN, dette er **svært** sjeldent i friske voksne
-
+* Du kan oppleve noen bivirkninger som:
+ * Hodepine
+ * Brennende følelser
+ * Hudrødhet
+ * Stivhet
+ * Prikking
+ * Nakkesmerter
 
 ### For å være med må du oppnå disse kriteriene:
 * Mellom alderen 18 til 50
