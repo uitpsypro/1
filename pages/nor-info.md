@@ -33,12 +33,8 @@ title: "Info"
 * Ikke ha metallimplantasjoner (f.eks: pacemaker, cochleaimplantat)
 * Ikke ha elektroniske verktøy i kroppen
 
-### General information about the experiment:
 
-
-
-### Fortsatt interessert?
-Da kan du lese om eksperimentet i mer detaljer [her]("document link" --- ,
+#### Da kan du lese om eksperimentet i mer detaljer [her]("document link" --- ,
 
 Hvis du har spørsmål eller ønsker å melde deg som deltaker kan du kontakte en av eksperimentørene:
 
