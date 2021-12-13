@@ -16,7 +16,7 @@ title: "Info"
   * Both you, the participant, and the researchers will **not know** which stimulation you will receive to either session (blinding)
 * A single session will require around 2 to 2.5 hours
 * The second session will be, at minimum, 7 days after the first session
-* To quality for the giftcard you must participate in both sessions
+* To quality for the giftcard (500 NOK) you must participate in both sessions
 
 
 ### Risk & Sideeffects
