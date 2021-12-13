@@ -24,6 +24,7 @@ title: "Info"
 
 
 ### For å være med må du oppnå disse kriteriene:
+* Mellom alderen 18 til 50
 * Du bør ha godt eller korrigert syn
 * Må være høyrehendt
 * Kan ikke ha noen nåværende/tidligere psykiske/nevrologiske sykdommer (f.eks. alvorlig depresjon, bipolar lidelse, epilepsi, migrene, alvorlig hodeskade, hjernekirurgi)
