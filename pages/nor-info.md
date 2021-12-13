@@ -16,7 +16,7 @@ title: "Info"
 * En enkelt sesjon varer mellom 2 til 2.5 timer
 * Andre sesjon vil være, minst, 7 dager etter første sesjon
 * For å kvalifisere til gavekortet må du fullføre begge sesjonene 
-
+* Starter tidlig januar 2022
 
 ### Risiko &  bivirkninger:
 * Denne type hjernestimulering er veldig potent og **kan** utløse ett epileptisk anfall
