@@ -10,7 +10,6 @@ title: "Info"
 ### Short about the experiment: 
 * We will be using [repetitive transcranial magnetic stimulation (rTMS)](https://uitpsypro.github.io/1/eng-info/eng-rtms)
   * A non-invasive brain stimulation procedure
-  * 
 * The experiment consists of two sessions (2 meetings):
   * Where you receive either **real rTMS stimulation** or **fake rTMS stimulation**
   * Both you, the participant, and the researchers will **not know** which stimulation you will receive to either session (blinding)
@@ -19,7 +18,7 @@ title: "Info"
 * To quality for the giftcard (500 NOK) you must participate in both sessions
 
 
-### Risk & Sideeffects
+### Risk & Side effects
 * This brain stimulation procedure is very potent and **might** elicit an epileptic seizure
 * HOWEVER, this is **very** rare in healthy adults
 * You might experience some sideeffects like:
@@ -44,11 +43,10 @@ title: "Info"
 
 
 
+##### If you are still interested you can download and read the [full instructions here](https://github.com/uitpsypro/1/raw/main/documents/00-InfoSheet_english.pdf).
 
 
-### Still interested?
-If you are still interested you can download and read the [full instructions here](https://github.com/uitpsypro/1/raw/main/documents/00-InfoSheet_english.pdf).
-
+### Contact:
 If you have any questions or want to participant in the experiment you can contact one of the researchers:
 
 * Steffen Aasen at [saa054@uit.no](mailto:saa054@uit.no) 
