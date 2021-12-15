@@ -12,4 +12,4 @@ title: ""
 
 ![test](/pictures/poster.png)
 
-<img src="/1/pictures/poster.png" alt="drawing" width="400"/>
+<img src="https://github.com/uitpsypro/1/blob/main/pictures/poster.png" alt="drawing" width="400"/>
