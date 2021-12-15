@@ -12,4 +12,4 @@ title: ""
 
 ![test](/pictures/poster.png)
 
-<img src="/pictures/poster.png" alt="drawing" width="400"/>
+<img src="/1/pictures/poster.png" alt="drawing" width="400"/>
