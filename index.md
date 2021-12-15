@@ -11,3 +11,5 @@ title: ""
 
 
 ![test](/pictures/poster.png)
+
+<img src="/pictures/poster.png" alt="drawing" width="400"/>
