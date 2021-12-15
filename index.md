@@ -10,7 +10,7 @@ title: ""
 ### [For **Norsk** trykk her.](https://uitpsypro.github.io/1/nor-info)
 
 
-<img src="https://github.com/uitpsypro/1/blob/main/pictures/poster.png" alt="drawing" width="400"/>
+<img src="/pictures/poster.png" alt="drawing" width="400"/>
 
 
 <!--- 
