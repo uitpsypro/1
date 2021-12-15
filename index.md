@@ -10,6 +10,6 @@ title: ""
 ### [For **Norsk** trykk her.](https://uitpsypro.github.io/1/nor-info)
 
 
-![test](/pictures/poster.png =400x)
+![test](/pictures/poster.png)
 
 <img src="/pictures/poster.png" alt="drawing" width="400"/>
