@@ -9,9 +9,8 @@ title: ""
 # Vil du ha hjernen din stimulert?
 ### [For **Norsk** trykk her.](https://uitpsypro.github.io/1/nor-info)
 
-<!--- 
+
 ![test](/pictures/poster.png)
---->
 
 <img src="/pictures/poster.png" alt="drawing" width="400"/>
 
