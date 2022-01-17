@@ -42,7 +42,7 @@ title: "Info"
 
 
 
-##### Da kan du lese om eksperimentet i [mer detaljer her.](https://github.com/uitpsypro/1/raw/main/documents/00-InfoSheet_norsk.pdf)
+#### Da kan du lese om eksperimentet i [mer detaljer her.](https://github.com/uitpsypro/1/raw/main/documents/00-InfoSheet_norsk.pdf)
 
 
 ### Kontakt:
