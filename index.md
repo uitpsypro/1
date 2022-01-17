@@ -14,7 +14,7 @@ title: ""
 
 ---
 
-![Norsk poster](/pictures/0-nor-poster-2.png)
+![Norsk poster](/pictures/1-nor-poster-2.png)
 
 
 
