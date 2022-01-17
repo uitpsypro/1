@@ -15,8 +15,8 @@ title: "Info"
   * Both you, the participant, and the researchers will **not know** which stimulation you will receive to either session (blinding)
 * A single session will require around 2 to 2.5 hours
 * The second session will be, at minimum, 7 days after the first session
-* To quality for the giftcard (500 NOK) you must participate in both sessions
-* Starting early Januar 2022. 
+* To quality for the giftcard at Jekta (500 NOK) you must participate in both sessions
+* Starting Januar 2022. 
 
 
 ### Risk & side effects
