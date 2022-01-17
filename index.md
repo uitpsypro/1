@@ -12,12 +12,12 @@ title: ""
 
 ![English poster](/pictures/0-eng-poster-2.png) | ![Norsk poster](/pictures/1-nor-poster-2.png)
 
+
+<!---
 ---
 
 ![Norsk poster](/pictures/1-nor-poster-2.png)
 
 
-
-<!---
 ![test](/pictures/poster.png)
 --->
