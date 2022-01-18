@@ -14,10 +14,8 @@ title: ""
 
 
 <!---
----
-
 ![Norsk poster](/pictures/1-nor-poster-2.png)
 
 
 ![test](/pictures/poster.png)
---->
+-->
