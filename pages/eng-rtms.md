@@ -11,7 +11,7 @@ title: "rTMS"
 * Repetitive TMS means that the magnetic field will turn on and off multiple times in a single stimulation round.
 
 
-TMS Example: 
+##### TMS Example: 
 | TMS coil (example): | TMS magnetic fields: |
 | ![TMS_Patient.jpg](/1/pictures/TMS_patient.jpg) | ![TMS_1.png](/1/pictures/TMS_1.png) |
 | [Source](http://hcewiki.zcu.cz/hcewiki/index.php/File:TMS_patient.jpg)  | [Source](http://hcewiki.zcu.cz/hcewiki/index.php/File:TMS_1.png) |
