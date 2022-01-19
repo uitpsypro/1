@@ -13,5 +13,6 @@ title: "rTMS"
 
 ##### TMS Example: 
 | TMS coil | TMS magnetic fields |
-| .![TMS_Patient.jpg](/1/pictures/TMS_patient.jpg) | .![TMS_1.png](/1/pictures/TMS_1.png)|
+| ------------------------------------ | ------------------------------------ |
+| ![TMS_Patient.jpg](/1/pictures/TMS_patient.jpg) | ![TMS_1.png](/1/pictures/TMS_1.png)|
 | [Source](http://hcewiki.zcu.cz/hcewiki/index.php/File:TMS_patient.jpg)  | [Source](http://hcewiki.zcu.cz/hcewiki/index.php/File:TMS_1.png)|
