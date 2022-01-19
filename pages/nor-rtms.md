@@ -13,6 +13,6 @@ title: "rTMS"
 * Repetetiv TMS (rTMS) betyr at de magnetiske feltene blir skrudd av og på flere ganger under en stimuleringsrunde.
 
 
-##### TMS spolen (eksempel): | ##### TMS magnetiske felter:
+##### TMS spolen (eksempel): | TMS magnetiske felter:
 ![TMS_Patient.jpg](/1/pictures/TMS_patient.jpg) | ![TMS_1.png](/1/pictures/TMS_1.png) 
-###### Kilde: http://hcewiki.zcu.cz/hcewiki/index.php/File:TMS_patient.jpg | ###### Kilde: http://hcewiki.zcu.cz/hcewiki/index.php/File:TMS_1.png
+###### Kilde: http://hcewiki.zcu.cz/hcewiki/index.php/File:TMS_patient.jpg | Kilde: http://hcewiki.zcu.cz/hcewiki/index.php/File:TMS_1.png
