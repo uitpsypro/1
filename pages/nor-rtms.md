@@ -15,4 +15,4 @@ title: "rTMS"
 
 ##### TMS spolen (eksempel): | ##### TMS magnetiske felter:
 ![TMS_Patient.jpg](/1/pictures/TMS_patient.jpg) | ![TMS_1.png](/1/pictures/TMS_1.png) 
-** Kilde: http://hcewiki.zcu.cz/hcewiki/index.php/File:TMS_patient.jpg | Kilde: http://hcewiki.zcu.cz/hcewiki/index.php/File:TMS_1.png
+###### Kilde: http://hcewiki.zcu.cz/hcewiki/index.php/File:TMS_patient.jpg | ###### Kilde: http://hcewiki.zcu.cz/hcewiki/index.php/File:TMS_1.png
