@@ -4,7 +4,7 @@ title: "rTMS"
 ---
 ###### [Hjem](https://uitpsypro.github.io/1/) / [Informasjon](https://uitpsypro.github.io/1/nor-info) / [rTMS](https://uitpsypro.github.io/1/nor-info/nor-rtms)
 ---
-# Repetetive Transkraniell Magnetisk Stimulering
+# Repetetive Transkraniell Magnetisk Stimulering (rTMS)
 
 * Transkraniell magnetisk stimulering (TMS), er en ikke-invasive metode for å stimulere hjernen.
 * En magnetisk spole blir plassert på skallen til en person som får stimulering.
@@ -13,6 +13,8 @@ title: "rTMS"
 * Repetetiv TMS (rTMS) betyr at de magnetiske feltene blir skrudd av og på flere ganger under en stimuleringsrunde.
 
 ##### TMS eksempel:
+
 | TMS spolen | TMS magnetiske felter |
-| ![TMS_Patient.jpg](/1/pictures/TMS_patient.jpg) | ![TMS_1.png](/1/pictures/TMS_1.png) |
+
+| TMS Spolen ![TMS_Patient.jpg](/1/pictures/TMS_patient.jpg) | TMS magnetiske felter  ![TMS_1.png](/1/pictures/TMS_1.png) |
 | [Kilde](http://hcewiki.zcu.cz/hcewiki/index.php/File:TMS_patient.jpg) | [Kilde](http://hcewiki.zcu.cz/hcewiki/index.php/File:TMS_1.png) |
