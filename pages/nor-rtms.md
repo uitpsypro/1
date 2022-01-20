@@ -14,5 +14,6 @@ title: "rTMS"
 
 ##### TMS eksempel:
 
-| TMS Spolen \ ![TMS_Patient.jpg](/1/pictures/TMS_patient.jpg) | TMS magnetiske felter \ ![TMS_1.png](/1/pictures/TMS_1.png) |
+| TMS spolen | TMS Magnetisk felter |
+| TMS Spolen  ![TMS_Patient.jpg](/1/pictures/TMS_patient.jpg) | TMS magnetiske felter  ![TMS_1.png](/1/pictures/TMS_1.png) |
 | [Kilde](http://hcewiki.zcu.cz/hcewiki/index.php/File:TMS_patient.jpg) | [Kilde](http://hcewiki.zcu.cz/hcewiki/index.php/File:TMS_1.png) |
