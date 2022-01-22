@@ -13,7 +13,7 @@ title: "rTMS"
 * Repetitive TMS means that the magnetic field will turn on and off multiple times in a single stimulation round.
 
 
-##### TMS Example: 
+##### TMS example: 
 
 | TMS coil | TMS - magnetic fields |
 | ------------------------------------------------------- | ------------------------------------------------------- |
