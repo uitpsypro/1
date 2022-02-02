@@ -1,6 +1,6 @@
 ---
 title: ""
-<link rel="icon" href="/pictures/tms.png"/>
+<link rel="icon" type="image/png" size="120x120" href="/pictures/tms.png"/>
 ---
 
 # Want your brain stimulated?
