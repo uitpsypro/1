@@ -6,6 +6,9 @@ title: "Info"
 ---
 
 # What your brain stimulated?
+* This is a Research Student Programme ("forskerlinje") in psychology project.  
+* The project have been ethically approved by regional ethics committee (REK nord).
+
 
 ### Short about the experiment: 
 * We will be using [repetitive transcranial magnetic stimulation (rTMS)](https://uitpsypro.github.io/1/eng-info/eng-rtms)
