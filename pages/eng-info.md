@@ -6,7 +6,7 @@ title: "Info"
 ---
 
 # What your brain stimulated?
-* This is a Research Student Programme ("forskerlinje") in psychology project.  
+* This is a Research Student Programme ("forskerlinje" - in psychology) project at UiT.  
 * The project have been ethically approved by regional ethics committee (REK nord).
 
 
