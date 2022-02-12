@@ -6,7 +6,7 @@ title: "Info"
 ---
 
 # Vil du ha hjernen din stimulert?
-* Dette er et Forskerlinje (i psykologi) prosjekt.
+* Dette er et Forskerlinje (i psykologi) prosjekt ved UiT.
 * Prosjektet har blitt etisk godkjent av den regionale etiske kommiteen (REK nord).
 
 ### Kort om eksperimentet: 
