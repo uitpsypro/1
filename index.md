@@ -12,7 +12,7 @@ title: ""
 ### [For **Norsk** trykk her.](https://uitpsypro.github.io/1/nor-info)
 
 
-![English poster](/pictures/0-eng-poster-2.png) | ![Norsk poster](/pictures/1-nor-poster-2.png)
+![English poster](/pictures/poster_en1.png) | ![Norsk poster](/pictures/poster_nor1.png)
 
 
 <!---
