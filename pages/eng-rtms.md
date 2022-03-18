@@ -6,11 +6,11 @@ title: "rTMS"
 ---
 # Repetetive Transcranial Magnetic Stimulation (rTMS)
 
-* Transcranial magnetic stimulation (TMS), is a non-invasive method of brain stimulation.
-* The magnetic coil is placed over the scalp of the person being stimulated.
-* The magnetic field penetrates the skull and the electric stimulus influence neurons in the brain, under the coil.
-* Repetetive transcranial magnetic stimulation is a method to modulate brain activity. 
-* Repetitive TMS means that the magnetic field will turn on and off multiple times in a single stimulation round.
+* Transcranial magnetic stimulation (TMS), is a non-invasive method of brain stimulation
+* The magnetic coil is placed over the scalp of the person being stimulated
+* The magnetic field penetrates the skull and the electric stimulus influence neurons in the brain, under the coil
+* Repetetive transcranial magnetic stimulation is a method to modulate brain activity
+* Repetitive TMS means that the magnetic field will turn on and off multiple times in a single stimulation round
 
 
 ##### TMS example: 
