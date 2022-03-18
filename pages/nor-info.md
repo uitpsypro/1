@@ -13,12 +13,11 @@ title: "Info"
 * Ved bruk av [repetetiv transkraniall magnetisk stimulering (rTMS)](https://uitpsypro.github.io/1/nor-info/nor-rtms)
   * En ikke invasive hjernestimuleringsprosedyre
 * Eksperimentet innebærer 2 sesjoner (2 oppmøter):
-  * Hvor du vil få **ekte rTMS stimulering** den ene dagen og **falsk rTMS stimulering** den andre dagen
+  * Hvor du vil få **ekte rTMS stimulering** på en av møtene og **placebo (falsk) rTMS stimulering** på det andre møtet
   * Både du, som deltaker, og eksperimentørene vil **ikke vite** hvilken stimulering du får til hvert oppmøte
 * En enkelt sesjon varer mellom 2 til 2.5 timer
 * Andre sesjon vil være, minst, 7 dager etter første sesjon
 * For å kvalifisere til gavekortet på Jekta (500 NOK) må du fullføre begge sesjonene 
-* Starter tidlig 2022
 * Testing ved UiT [hus 5](https://use.mazemap.com/#v=1&zlevel=3&center=18.972235,69.682144&zoom=16.7&campusid=5&sharepoitype=poi&sharepoi=1000459387)
 
 ### Risiko &  bivirkninger:
