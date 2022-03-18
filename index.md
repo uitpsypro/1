@@ -10,12 +10,12 @@ title: ""
 <br/>
 
 
-
-## [For **English** click here.](https://uitpsypro.github.io/1/eng-info)
+# Experiment about attention 
+### [For **English** click here.](https://uitpsypro.github.io/1/eng-info)
 <br/>
 
-
-## [For **Norsk** trykk her.](https://uitpsypro.github.io/1/nor-info)
+# Eksperimentet om oppmerksomhet
+### [For **Norsk** trykk her.](https://uitpsypro.github.io/1/nor-info)
 <br/>
 
 ![English Poster](/pictures/new-poster-eng.png) | ![Norsk Poster](/pictures/new-poster-nor.png) 
