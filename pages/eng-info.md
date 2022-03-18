@@ -47,14 +47,14 @@ title: "Info"
 
 
 
-#### If you are still interested you can download and read the [full instructions here](https://github.com/uitpsypro/1/raw/main/documents/00-InfoSheet_english.pdf).
+#### If you are still interested you can [download and read the concent.](https://github.com/uitpsypro/1/raw/main/documents/00-InfoSheet_english.pdf).
 
 
 ### Contact:
 If you have any questions or want to participant in the experiment you can contact one of the researchers:
 
-* Steffen Aasen at [saa054@uit.no](mailto:saa054@uit.no) 
-* Ragnhild Drevland at [rdr006@uit.no](mailto:rdr006@uit.no)
+* Steffen Aasen - [saa054@uit.no](mailto:saa054@uit.no) 
+* Ragnhild Drevland - [rdr006@uit.no](mailto:rdr006@uit.no)
 
 
 
