@@ -1,7 +1,9 @@
 ---
 title: ""
 <link rel="icon" type="image/png" sizes="120x120" href="/pictures/tms.png"/>
+<!---
 <link rel="icon" type="image/png" sizes="120x120" href="https://github.com/uitpsypro/1/blob/main/pictures/tms.png?raw=true"/>
+-->
 ---
 
 
