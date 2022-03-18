@@ -44,14 +44,14 @@ title: "Info"
 
 
 
-#### Da kan du lese om eksperimentet i [mer detaljer her.](https://github.com/uitpsypro/1/raw/main/documents/00-InfoSheet_norsk.pdf)
+#### Hvis du fortsatt er interessert kan du lese mer om [prosjektet her.](https://github.com/uitpsypro/1/raw/main/documents/00-InfoSheet_norsk.pdf)
 
 
 ### Kontakt:
 Hvis du har spørsmål eller ønsker å melde deg som deltaker kan du kontakte en av eksperimentørene:
 
-* Steffen Aasen at [saa054@uit.no](mailto:saa054@uit.no) 
-* Ragnhild Drevland at [rdr006@uit.no](mailto:rdr006@uit.no)
+* Steffen Aasen - [saa054@uit.no](mailto:saa054@uit.no) 
+* Ragnhild Drevland - [rdr006@uit.no](mailto:rdr006@uit.no)
 
 
 
