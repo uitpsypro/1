@@ -5,7 +5,7 @@ title: "Info"
 ###### [Hjem](https://uitpsypro.github.io/1/) / [Informasjon](https://uitpsypro.github.io/1/nor-info)
 ---
 
-# Vil du ha hjernen din stimulert?
+# Eksperiment om oppmerksomhet og hjernestimulering
 * Dette er et Forskerlinje (i psykologi) prosjekt ved UiT.
 * Prosjektet har blitt etisk godkjent av den regionale etiske kommiteen (REK nord).
 
