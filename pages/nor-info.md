@@ -6,8 +6,8 @@ title: "Info"
 ---
 
 # Eksperiment om oppmerksomhet og hjernestimulering
-* Dette er et Forskerlinje (i psykologi) prosjekt ved UiT.
-* Prosjektet har blitt etisk godkjent av den regionale etiske kommiteen (REK nord).
+* Dette er et Forskerlinje (i psykologi) prosjekt ved UiT
+* Prosjektet har blitt etisk godkjent av den regionale etiske kommiteen (REK nord)
 
 ### Kort om eksperimentet: 
 * Ved bruk av [repetetiv transkraniall magnetisk stimulering (rTMS)](https://uitpsypro.github.io/1/nor-info/nor-rtms)
