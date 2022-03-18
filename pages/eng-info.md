@@ -6,13 +6,13 @@ title: "Info"
 ---
 
 # Experiment about attention and brain stimulation
-* This is a Research Student Programme ("forskerlinje" - in psychology) project at UiT.  
-* The project have been ethically approved by regional ethics committee (REK nord).
+* This is a Research Student Programme ("forskerlinje" - in psychology) project at UiT
+* The project have been ethically approved by regional ethics committee (REK nord)
 
 
 ### Short about the experiment: 
 * We will be using [repetitive transcranial magnetic stimulation (rTMS)](https://uitpsypro.github.io/1/eng-info/eng-rtms)
-  * A non-invasive brain stimulation procedure
+  * A non-invasive brain stimulation procedure (click on the link above to learn more)
 * The experiment consists of two sessions (2 meetings):
   * Where you receive both **real rTMS stimulation** at one of the sessions and **fake rTMS stimulation** at another session
   * Both you, the participant, and the researchers will **not know** which stimulation you will receive to either session (blinding)
