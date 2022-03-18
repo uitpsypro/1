@@ -11,7 +11,7 @@ title: "Info"
 
 ### Kort om eksperimentet: 
 * Ved bruk av [repetetiv transkraniall magnetisk stimulering (rTMS)](https://uitpsypro.github.io/1/nor-info/nor-rtms)
-  * En ikke invasive hjernestimuleringsprosedyre
+  * En ikke-invasive hjernestimuleringsprosedyre (trykk på linken over for å lære mer)
 * Eksperimentet innebærer 2 sesjoner (2 oppmøter):
   * Hvor du vil få **ekte rTMS stimulering** på en av møtene og **placebo (falsk) rTMS stimulering** på det andre møtet
   * Både du, som deltaker, og eksperimentørene vil **ikke vite** hvilken stimulering du får til hvert oppmøte
