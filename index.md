@@ -9,7 +9,6 @@ title: ""
 
 
 <br/>
-<br/>
 
 
 # Experiment about attention 
