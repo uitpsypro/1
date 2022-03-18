@@ -16,7 +16,7 @@ title: ""
 ### [For **English** click here.](https://uitpsypro.github.io/1/eng-info)
 <br/>
 
-# Eksperimentet om oppmerksomhet
+# Eksperiment om oppmerksomhet
 ### [For **Norsk** trykk her.](https://uitpsypro.github.io/1/nor-info)
 <br/>
 
