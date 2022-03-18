@@ -5,7 +5,7 @@ title: "Info"
 ###### [Home](https://uitpsypro.github.io/1/) / [Information](https://uitpsypro.github.io/1/eng-info)
 ---
 
-# What your brain stimulated?
+# Experiment about attention and brain stimulation
 * This is a Research Student Programme ("forskerlinje" - in psychology) project at UiT.  
 * The project have been ethically approved by regional ethics committee (REK nord).
 
