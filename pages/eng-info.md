@@ -14,12 +14,11 @@ title: "Info"
 * We will be using [repetitive transcranial magnetic stimulation (rTMS)](https://uitpsypro.github.io/1/eng-info/eng-rtms)
   * A non-invasive brain stimulation procedure
 * The experiment consists of two sessions (2 meetings):
-  * Where you receive either **real rTMS stimulation** or **fake rTMS stimulation**
+  * Where you receive both **real rTMS stimulation** at one of the sessions and **fake rTMS stimulation** at another session
   * Both you, the participant, and the researchers will **not know** which stimulation you will receive to either session (blinding)
 * A single session will require around 2 to 2.5 hours
 * The second session will be, at minimum, 7 days after the first session
 * To quality for the giftcard at Jekta (500 NOK) you must participate in both sessions
-* Starting early 2022. 
 * Testing at UiT [house 5](https://use.mazemap.com/#v=1&zlevel=3&center=18.972235,69.682144&zoom=16.7&campusid=5&sharepoitype=poi&sharepoi=1000459387)
 
 
