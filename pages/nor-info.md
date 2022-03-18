@@ -44,7 +44,7 @@ title: "Info"
 
 
 
-#### Hvis du fortsatt er interessert kan du lese mer om [prosjektet her.](https://github.com/uitpsypro/1/raw/main/documents/00-InfoSheet_norsk.pdf)
+#### Hvis du fortsatt er interessert kan du [laste ned og lese samtykket her.](https://github.com/uitpsypro/1/raw/main/documents/00-InfoSheet_norsk.pdf)
 
 
 ### Kontakt:
