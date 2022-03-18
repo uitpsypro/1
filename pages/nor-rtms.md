@@ -6,11 +6,11 @@ title: "rTMS"
 ---
 # Repetetive Transkraniell Magnetisk Stimulering (rTMS)
 
-* Transkraniell magnetisk stimulering (TMS), er en ikke-invasive metode for å stimulere hjernen.
-* En magnetisk spole blir plassert på skallen til en person som får stimulering.
-* Det magnetiske feltet går gjennom skallen og de magnetiske feltene påvirker nerver i hjernen under spolen.
-* Repetetiv transkraniell magnetisk stimulering er en metode for å modulere hjerneaktivitet.
-* Repetetiv TMS (rTMS) betyr at de magnetiske feltene blir skrudd av og på flere ganger under en stimuleringsrunde.
+* Transkraniell magnetisk stimulering (TMS), er en ikke-invasive metode for å stimulere hjernen
+* En magnetisk spole blir plassert på skallen til en person som får stimulering
+* Det magnetiske feltet går gjennom skallen og de magnetiske feltene påvirker nerver i hjernen under spolen
+* Repetetiv transkraniell magnetisk stimulering er en metode for å modulere hjerneaktivitet
+* Repetetiv TMS (rTMS) betyr at de magnetiske feltene blir skrudd av og på flere ganger under en stimuleringsrunde
 
 ##### TMS eksempel:
 
