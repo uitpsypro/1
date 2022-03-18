@@ -9,16 +9,16 @@ title: ""
 <br/>
 <br/>
 <br/>
+
+
+## [For **English** click here.](https://uitpsypro.github.io/1/eng-info)
+
+
+
+## [For **Norsk** trykk her.](https://uitpsypro.github.io/1/nor-info)
 <br/>
 
-# [For **English** click here.](https://uitpsypro.github.io/1/eng-info)
-
-
-
-# [For **Norsk** trykk her.](https://uitpsypro.github.io/1/nor-info)
-
-
-![English Poster](/pictures/new-poster-eng.png) | ![Norsk Poster](/pictures/new-poster-nor.png) 
+![English Poster](/pictures/new-poster-eng.png) | ![Norsk Poster](/pictures/new-poster-nor.png) | ![Norsk poster](/pictures/poster_nor1.png) 
 ![English poster](/pictures/poster_eng1.png) | ![Norsk poster](/pictures/poster_nor1.png) 
 
 
