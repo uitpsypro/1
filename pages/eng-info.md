@@ -24,7 +24,7 @@ title: "Info"
 
 ### Risk & side effects
 * This brain stimulation procedure is very potent and **might** elicit an epileptic seizure
-* HOWEVER, this is **very** rare in healthy adults
+  * HOWEVER, this is **very** rare in healthy adults
 * You might experience some sideeffects like:
   * Headache
   * Burning sensations 
