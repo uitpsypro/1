@@ -5,6 +5,8 @@ title: "Info"
 ###### [Hjem](https://uitpsypro.github.io/1/) / [Informasjon](https://uitpsypro.github.io/1/nor-info)
 ---
 
+
+
 # Eksperiment om oppmerksomhet og hjernestimulering
 * Dette er et Forskerlinje (i psykologi) prosjekt ved UiT
 * Prosjektet har blitt etisk godkjent av den regionale etiske kommiteen (REK nord)
@@ -35,7 +37,7 @@ title: "Info"
 * **Må være høyrehendt**
 * Mellom alderen 18 til 50
 * Du bør ha godt eller korrigert syn
-* Kan ikke ha noen nåværende/tidligere psykiske/nevrologiske sykdommer (f.eks. alvorlig depresjon, bipolar lidelse, epilepsi, migrene, alvorlig hodeskade, hjernekirurgi)
+* Kan ikke ha noen nåværende/tidligere psykiske/nevrologiske sykdommer (f.eks. alvorlig depresjon, bipolar lidelse, epilepsi, migrene, alvorlig hodeskade, hjernekirurgi, ADHD)
 * Ikke gravid
 * Ikke historie med epilepsi i (nær) familie 
 * Ikke tar medisiner som påvirker sentralnervesystemet (f.eks. antidepressiva, antiepileptika)
