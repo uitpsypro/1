@@ -38,7 +38,7 @@ title: "Info"
 * **Be righthanded**
 * Between the ages of 18 to 50
 * Good or corrected eyesight
-* Have no psychological/neurological diseases currently or in the past (e. g. major depression, bipolar disorder, epilepsy, migraine, severe head injury, brain surgery)
+* Have no psychological/neurological diseases currently or in the past (e. g. major depression, bipolar disorder, epilepsy, migraine, severe head injury, brain surgery, ADHD)
 * Not pregnant
 * No history of epilepsy in the family (first-degree relatives)
 * Not taking any medication targeting the central nervous system (e. g. antidepressants, antiepileptics)
