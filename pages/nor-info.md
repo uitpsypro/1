@@ -22,7 +22,7 @@ title: "Info"
 
 ### Risiko &  bivirkninger:
 * Denne type hjernestimulering er veldig potent og **kan** utløse ett epileptisk anfall
-* MEN dette skjer **svært** sjeldent hos friske voksne
+  * MEN dette skjer **svært** sjeldent hos friske voksne
 * Du kan oppleve noen bivirkninger som:
   * Hodepine
   * Brennende følelser
