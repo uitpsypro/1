@@ -11,12 +11,12 @@ title: ""
 <br/>
 
 
-# Experiment about attention 
-### [For **English** click here.](https://uitpsypro.github.io/1/eng-info)
+<!---# Experiment about attention--> 
+# [For **English** click here.](https://uitpsypro.github.io/1/eng-info)
 <br/>
 
-# Eksperiment om oppmerksomhet
-### [For **Norsk** trykk her.](https://uitpsypro.github.io/1/nor-info)
+<!--# Eksperiment om oppmerksomhet-->
+# [For **Norsk** trykk her.](https://uitpsypro.github.io/1/nor-info)
 <br/>
 <!---
 ![English Poster](/pictures/new-poster-eng.png) | ![Norsk Poster](/pictures/new-poster-nor.png) 
