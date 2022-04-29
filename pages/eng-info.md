@@ -1,17 +1,20 @@
 ---
-permalink: /eng-info.html
+permalink: /eng/info.html
 title: "Info"
 ---
-###### [Home](https://uitpsypro.github.io/1/) / [Information](https://uitpsypro.github.io/1/eng-info)
+###### [Home](https://uitpsypro.github.io/1/) / [Information](https://uitpsypro.github.io/1/eng/info)
 ---
 
 # Experiment about attention and brain stimulation
+
+* We are using brain stimulation (none-invasive, read below) to see whether we can influence our attention!
+
 * This is a Research Student Programme ("forskerlinje" - in psychology) project at UiT
 * The project have been ethically approved by regional ethics committee (REK nord)
 
 
 ### Short about the experiment: 
-* We will be using [repetitive transcranial magnetic stimulation (rTMS)](https://uitpsypro.github.io/1/eng-info/eng-rtms)
+* We will be using [repetitive transcranial magnetic stimulation (rTMS)](https://uitpsypro.github.io/1/eng/info/rtms)
   * A non-invasive brain stimulation procedure (click on the link above to learn more)
 * The experiment consists of two sessions (2 meetings):
   * Where you receive both **real rTMS stimulation** at one of the sessions and **placebo (fake) rTMS stimulation** at another session
