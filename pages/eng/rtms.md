@@ -1,8 +1,10 @@
 ---
-permalink: /eng-info/eng-rtms.html
+permalink: /eng/info/rtms.html
 title: "rTMS"
 ---
-###### [Home](https://uitpsypro.github.io/1/) / [Information](https://uitpsypro.github.io/1/eng-info) / [rTMS](https://uitpsypro.github.io/1/eng-info/eng-rtms)
+###### [Home](https://uitpsypro.github.io/1/) //// [Norsk?](https://uitpsypro.github.io/1/nor/info/rtms)
+
+###### [Information](https://uitpsypro.github.io/1/eng/info) / [rTMS](https://uitpsypro.github.io/1/eng/info/rtms)
 ---
 # Repetetive Transcranial Magnetic Stimulation (rTMS)
 
