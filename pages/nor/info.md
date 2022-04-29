@@ -1,10 +1,10 @@
 ---
-permalink: /nor-info.html
+permalink: /nor/info.html
 title: "Info"
 ---
-###### [Hjem](https://uitpsypro.github.io/1/) //// [English?](https://uitpsypro.github.io/1/eng-info)
+###### [Hjem](https://uitpsypro.github.io/1/) //// [English?](https://uitpsypro.github.io/1/eng/info)
 
-###### [Informasjon](https://uitpsypro.github.io/1/nor-info)
+###### [Informasjon](https://uitpsypro.github.io/1/nor/info)
 ---
 
 
@@ -15,7 +15,7 @@ title: "Info"
 * Prosjektet har blitt etisk godkjent av den regionale etiske kommiteen (REK nord)
 
 ### Kort om eksperimentet: 
-* Ved bruk av [repetetiv transkraniall magnetisk stimulering (rTMS)](https://uitpsypro.github.io/1/nor-info/nor-rtms)
+* Ved bruk av [repetetiv transkraniall magnetisk stimulering (rTMS)](https://uitpsypro.github.io/1/nor/info/rtms)
   * En ikke-invasive hjernestimuleringsprosedyre (trykk på linken over for å lære mer)
 * Eksperimentet innebærer 2 sesjoner (2 oppmøter):
   * Hvor du vil få **ekte rTMS stimulering** på en av møtene og **placebo (falsk) rTMS stimulering** på det andre møtet
