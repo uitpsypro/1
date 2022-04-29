@@ -2,12 +2,15 @@
 permalink: /nor-info.html
 title: "Info"
 ---
-###### [Hjem](https://uitpsypro.github.io/1/) / [Informasjon](https://uitpsypro.github.io/1/nor-info)
+###### [Hjem](https://uitpsypro.github.io/1/) //// [English?](https://uitpsypro.github.io/1/eng-info)
+
+###### [Informasjon](https://uitpsypro.github.io/1/nor-info)
 ---
 
 
-
 # Eksperiment om oppmerksomhet og hjernestimulering
+*  Vi bruker hjernestimulering (ikke-invasive, se under) til å se hvordan vi kan påvirke oppmerksomheten våres!
+
 * Dette er et Forskerlinje (i psykologi) prosjekt ved UiT
 * Prosjektet har blitt etisk godkjent av den regionale etiske kommiteen (REK nord)
 
