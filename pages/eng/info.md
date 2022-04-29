@@ -2,7 +2,9 @@
 permalink: /eng/info.html
 title: "Info"
 ---
-###### [Home](https://uitpsypro.github.io/1/) / [Information](https://uitpsypro.github.io/1/eng/info)
+###### [Home](https://uitpsypro.github.io/1/) //// [Norsk?](https://uitpsypro.githubt.io/1/nor/info)
+
+###### [Information](https://uitpsypro.github.io/1/eng/info) 
 ---
 
 # Experiment about attention and brain stimulation
