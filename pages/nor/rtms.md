@@ -1,5 +1,5 @@
 ---
-permalink: /nor-info/nor-rtms.html
+permalink: /nor/info/rtms.html
 title: "rTMS"
 ---
 ###### [Hjem](https://uitpsypro.github.io/1/) //// [English?](https://uitpsypro.github.io/1/eng/info/rtms) 
