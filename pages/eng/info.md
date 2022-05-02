@@ -9,7 +9,7 @@ title: "Info"
 
 # Experiment about attention and brain stimulation
 
-* We are using brain stimulation (none-invasive, read below) to see whether we can influence our attention!
+* We are using brain stimulation (non-invasive, read below) to see whether we can influence our attention!
 
 * This is a Research Student Programme ("forskerlinje" - in psychology) project at UiT
 * The project have been ethically approved by regional ethics committee (REK nord)
