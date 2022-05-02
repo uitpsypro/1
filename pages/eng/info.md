@@ -24,7 +24,7 @@ title: "Info"
 * A single session will require around 2 to 2.5 hours
 * The second session will be, at minimum, 7 days after the first session
 * To quality for the giftcard at Jekta (500 NOK) you must participate in both sessions
-* Testing at UiT [house 5](https://use.mazemap.com/#v=1&zlevel=3&center=18.972235,69.682144&zoom=16.7&campusid=5&sharepoitype=poi&sharepoi=1000459387)
+* Testing at UiT [house 5](https://use.mazemap.com/#v=1&zlevel=3&center=18.972263,69.682018&zoom=16.7&campusid=5&sharepoitype=poi&sharepoi=177511)
 
 
 ### Risk & side effects
