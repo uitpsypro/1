@@ -23,7 +23,7 @@ title: "Info"
 * En enkelt sesjon varer mellom 2 til 2.5 timer
 * Andre sesjon vil være, minst, 7 dager etter første sesjon
 * For å kvalifisere til gavekortet på Jekta (500 NOK) må du fullføre begge sesjonene 
-* Testing ved UiT [hus 5](https://use.mazemap.com/#v=1&zlevel=3&center=18.972235,69.682144&zoom=16.7&campusid=5&sharepoitype=poi&sharepoi=1000459387)
+* Testing ved UiT [hus 5](https://use.mazemap.com/#v=1&zlevel=3&center=18.972263,69.682018&zoom=16.7&campusid=5&sharepoitype=poi&sharepoi=177511)
 
 ### Risiko &  bivirkninger:
 * Denne type hjernestimulering er veldig potent og **kan** utløse ett epileptisk anfall
