@@ -10,12 +10,14 @@ title: ""
 
 <br/>
 
+# This experiment is now finished! 
 
-<!---# Experiment about attention--> 
+
+<!---# Experiment about attention
 # [For **English** click here.](https://uitpsypro.github.io/1/eng/info)
 <br/>
 
-<!--# Eksperiment om oppmerksomhet-->
+<!--# Eksperiment om oppmerksomhet
 # [For **Norsk** trykk her.](https://uitpsypro.github.io/1/nor/info)
 <br/>
 
