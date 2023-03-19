@@ -9,26 +9,24 @@ title: ""
 
 
 <br/>
-
+<!---
 # This experiment is now finished! 
 
-
-<!---# Experiment about attention
+-->
+# Experiment about attention
 # [For **English** click here.](https://uitpsypro.github.io/1/eng/info)
 <br/>
 
-<!--# Eksperiment om oppmerksomhet
+# Eksperiment om oppmerksomhet
 # [For **Norsk** trykk her.](https://uitpsypro.github.io/1/nor/info)
 <br/>
 
-<!---
+
 ![English Poster](/pictures/new-poster-eng.png) | ![Norsk Poster](/pictures/new-poster-nor.png) 
 ![English poster](/pictures/poster_eng1.png) | ![Norsk poster](/pictures/poster_nor1.png) 
--->
 
-<!---
+
 ![Norsk poster](/pictures/1-nor-poster-2.png)
 
 
 ![test](/pictures/poster.png)
--->
