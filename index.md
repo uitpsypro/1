@@ -12,7 +12,7 @@ title: ""
 ---
 
 
-
+<!---
 <br/>
 
 # Experiment about attention
@@ -26,7 +26,7 @@ title: ""
 
 ![English poster 2](/pictures/10_poster_eng.png) | ![Norsk poster 2](/pictures/10_poster_nor.png) 
 ![English poster](/pictures/poster_eng1.png) | ![Norsk poster](/pictures/poster_nor1.png) 
-
+-->
 <!---
 ![Norsk poster](/pictures/1-nor-poster-2.png)
 
